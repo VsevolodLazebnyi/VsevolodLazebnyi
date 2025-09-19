@@ -56,9 +56,9 @@
 
 ## Packages, Modules & Tools I Work With
 
-### ML / Data
-
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px;">
+  <img alt="Stack" src="https://img.shields.io/badge/1.-ML%20/%20Data-0A66C2?style=for-the-badge">
+  <img alt=":" src="https://img.shields.io/badge/:-555?style=for-the-badge">
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=black&style=for-the-badge">
@@ -69,9 +69,9 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </div>
 
-### Frontend
-
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px;">
+  <img alt="Stack" src="https://img.shields.io/badge/2.-Frontend-0A66C2?style=for-the-badge">
+  <img alt=":" src="https://img.shields.io/badge/:-555?style=for-the-badge">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge">
@@ -80,9 +80,9 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge">
 </div>
 
-### Backend
-
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px;">
+  <img alt="Stack" src="https://img.shields.io/badge/3.-Backend-0A66C2?style=for-the-badge">
+  <img alt=":" src="https://img.shields.io/badge/:-555?style=for-the-badge">
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge">
@@ -90,9 +90,9 @@
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
-### Databases & Migrations
-
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px;">
+  <img alt="Stack" src="https://img.shields.io/badge/4.-Databases%20&%20Migrations-0A66C2?style=for-the-badge">
+  <img alt=":" src="https://img.shields.io/badge/:-555?style=for-the-badge">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="MS SQL" src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
@@ -100,9 +100,9 @@
   <img alt="Alembic" src="https://img.shields.io/badge/Alembic-333333?logoColor=white&style=for-the-badge">
 </div>
 
-### Infrastructure & Tools
-
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px;">
+  <img alt="Stack" src="https://img.shields.io/badge/5.-Infrastructure%20&%20Tools-0A66C2?style=for-the-badge">
+  <img alt=":" src="https://img.shields.io/badge/:-555?style=for-the-badge">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge">

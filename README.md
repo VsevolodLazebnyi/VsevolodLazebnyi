@@ -112,6 +112,11 @@
 
 ---
 
+## Has participated in various events:
+
+![Студстартап2025](https://img.shields.io/badge/Студстартап-2025-blue?style=for-the-badge)
+![КМУ2025](https://img.shields.io/badge/КМУ-2025-green?style=for-the-badge)
+
 <!-- Pinned Projects block: add when ready -->
 <!--
 ## 🚀 Pinned Projects
